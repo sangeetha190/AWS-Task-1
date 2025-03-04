@@ -1,0 +1,47 @@
+
+Host Name:                 EC2AMAZ-JR4MRTI
+OS Name:                   Microsoft Windows Server 2022 Datacenter
+OS Version:                10.0.20348 N/A Build 20348
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          EC2
+Registered Organization:   Amazon.com
+Product ID:                00454-60000-00001-AA325
+Original Install Date:     3/4/2025, 5:29:19 PM
+System Boot Time:          3/4/2025, 5:58:54 PM
+System Manufacturer:       Xen
+System Model:              HVM domU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2300 Mhz
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC) Coordinated Universal Time
+Total Physical Memory:     1,024 MB
+Available Physical Memory: 145 MB
+Virtual Memory: Max Size:  2,048 MB
+Virtual Memory: Available: 826 MB
+Virtual Memory: In Use:    1,222 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\EC2AMAZ-JR4MRTI
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5049617
+                           [02]: KB5012170
+                           [03]: KB5051979
+                           [04]: KB5050117
+                           [05]: KB5050410
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: AWS PV Network Device
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.31.0.1
+                                 IP address(es)
+                                 [01]: 172.31.8.38
+                                 [02]: fe80::a12f:54db:1345:ecfd
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
