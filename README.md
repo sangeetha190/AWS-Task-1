@@ -22,11 +22,11 @@
    - Once inside the Windows VM, open Command Prompt:
    - Press Win + R, type cmd, and press Enter.
    - Run the following command to get system details:
-   - # systeminfo
+   - ## systeminfo
    - Wait for the output to display system information.
 ## Step 4: Save System Info to a File
    - Run the command to save output
-   - # systeminfo > C:\Users\Administrator\Desktop\systeminfo.txt
+   - ## systeminfo > C:\Users\Administrator\Desktop\systeminfo.txt
    - The file systeminfo.txt will be created on the desktop.
 
 ![Screenshot 2025-03-04 235527](https://github.com/user-attachments/assets/83fb9f2d-475e-48bf-bbbb-4989604d9ed0)
