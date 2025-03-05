@@ -8,7 +8,7 @@
    - Configure Key Pair for authentication.
    - Enable RDP (Port 3389) in Security Group settings.
    - Click Launch and wait for the instance to start.
----------------------------------------------------------------------------------------------------------------------------------
+
 ## Step 2: Connect to Windows VM via RDP
    - Go to AWS EC2 Dashboard → Select the instance.
    - Click "Connect" → Choose RDP Client.
